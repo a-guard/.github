@@ -10,6 +10,8 @@ Welcome to **Absolute Guard**, a trusted Solana validator committed to supportin
 
 At **Absolute Guard**, we pride ourselves on our dedication to maintaining high uptime and performance. Our goal is to enhance the Solana ecosystem by providing robust validation services, contributing to network decentralization, and supporting ecosystem growth.
 
+Our team comprises experienced blockchain enthusiasts and professionals who are passionate about the future of decentralized technology. We constantly monitor and upgrade our infrastructure to ensure our validator is always running optimally.
+
 ---
 
 ## 🚀 Why Choose Absolute Guard?
@@ -18,6 +20,8 @@ At **Absolute Guard**, we pride ourselves on our dedication to maintaining high 
 - 🛡️ **Top-tier Security:** Implementing the best security practices to protect our nodes.
 - 🌐 **Community Commitment:** Actively engaging with and supporting the Solana community.
 - 📈 **Transparent Operations:** Open and honest about our processes and performance.
+
+We believe in transparency and reliability, and we are committed to providing the best service possible to our delegators. By choosing **Absolute Guard**, you are supporting a validator that is dedicated to the health and growth of the Solana network.
 
 ---
 
@@ -38,6 +42,8 @@ For the latest performance metrics, please visit our profiles on the following p
 - 🌐 [Validators.app](https://www.validators.app/validators/3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35)
 - 🌐 [Stakewiz](https://stakewiz.com/validators/3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35)
 
+We strive to maintain top performance metrics and continuously optimize our operations to ensure the best possible outcomes for our delegators.
+
 ---
 
 ## 📖 How to Stake with Absolute Guard
@@ -56,17 +62,23 @@ Staking your SOL tokens with **Absolute Guard** is an excellent way to support t
 
 For a detailed guide, check out the [Solana Staking Guide](https://docs.solana.com/staking/stake-accounts).
 
+By staking with us, you are directly contributing to the decentralization and security of the Solana network. We appreciate your support and are committed to maximizing your staking rewards.
+
 ---
 
 ## 💡 Contributions
 
-We welcome contributions to our open-source projects. Check out our [GitHub repositories](https://github.com/guard-validator) to see how you can help us enhance the Solana ecosystem.
+We welcome contributions to our open-source projects. Whether you're a developer, designer, or just passionate about blockchain, we invite you to check out our [GitHub repositories](https://github.com/guard-validator) and join us in enhancing the Solana ecosystem.
+
+Your contributions help us improve our validator operations, develop new tools, and support the broader blockchain community. Together, we can build a more robust and decentralized future.
 
 ---
 
 ## ❤️ Support Us
 
-If you value our work and dedication, consider delegating your stake to **Absolute Guard**. Your support helps us secure and grow the Solana network.
+If you value our work and dedication, consider delegating your stake to **Absolute Guard**. Your support helps us secure and grow the Solana network, and we are committed to providing you with the best service in return.
+
+By staking with **Absolute Guard**, you are not just earning rewards; you are also playing a crucial role in the health and decentralization of the Solana ecosystem. We thank you for your trust and support.
 
 ---
 
@@ -74,6 +86,4 @@ Thank you for choosing **Absolute Guard** as your Solana validator. Together, we
 
 ---
 
-<div align="center">
-  <img src="https://solana.com/branding/new/exchange-salmon-light.svg" width="200">
-</div>
+We look forward to working with you and contributing to the success of the Solana community.
