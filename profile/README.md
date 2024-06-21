@@ -68,7 +68,7 @@ By staking with us, you are directly contributing to the decentralization and se
 
 ## 💡 Contributions
 
-We welcome contributions to our open-source projects. Whether you're a developer, designer, or just passionate about blockchain, we invite you to check out our [GitHub repositories](https://github.com/guard-validator) and join us in enhancing the Solana ecosystem.
+We welcome contributions to our open-source projects. Whether you're a developer, designer, or just passionate about blockchain, we invite you to check out our [GitHub repositories](https://github.com/a-guard) and join us in enhancing the Solana ecosystem.
 
 Your contributions help us improve our validator operations, develop new tools, and support the broader blockchain community. Together, we can build a more robust and decentralized future.
 
