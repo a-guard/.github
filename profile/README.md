@@ -87,3 +87,38 @@ Thank you for choosing **Absolute Guard** as your Solana validator. Together, we
 ---
 
 We look forward to working with you and contributing to the success of the Solana community.
+
+
+
+
+
+---
+## 🛡️ Absolute Guard Validator Security Policies
+
+At Absolute Guard, we prioritize the highest level of security for our validator operations. Here are our comprehensive security policies:
+
+Transaction Handling
+
+	•	We do not forward transactions.
+	•	We do not participate in any mempools or engage in any malicious activities.
+
+Login and Access
+
+	•	SSH logins with passwords are completely disabled; access is granted only through secure key-based authentication.
+	•	We employ industry-leading security measures to ensure the safety and integrity of our systems.
+
+Uptime and Reliability
+
+	•	We ensure a high voting rate and strive for 100% uptime.
+	•	We operate multiple backup servers to maintain continuous uptime, even during validator updates.
+
+Network Security
+
+	•	We have configured a custom firewall to prevent spam attacks.
+	•	Our validator is hosted in a reliable datacenter and network environment, protected by advanced custom DDoS protection measures.
+
+Data Protection
+
+	•	All important data is securely stored offline to mitigate the risk of unauthorized access.
+
+By adhering to these policies, Absolute Guard ensures a secure and reliable validation process, safeguarding the integrity and performance of the network.
